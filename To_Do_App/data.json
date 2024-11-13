@@ -1,0 +1,28 @@
+{
+    "tasks": [
+        {
+            "id": 123,
+            "description": "Buy milk, eggs and bread",
+            "category": "Shopping",
+            "status": "pending"
+        },
+        {
+            "id": 124,
+            "description": "Empty Dishwasher",
+            "category": "Cleaning",
+            "status": "completed"
+        },
+        {
+            "id": 2,
+            "description": "StudyJava",
+            "category": "Study",
+            "status": "completed"
+        },
+        {
+            "id": 13,
+            "description": "Buy milk, eggs and bread",
+            "category": "Shopping",
+            "status": "pending"
+        }
+    ]
+}
